@@ -23,7 +23,7 @@ When a food-colorant batch is produced, its colour must match a reference standa
 |---|---|
 | Batches out of colour tolerance (ΔE00 > 1.5) | 15.8% |
 | Median ΔE00, original suppliers vs. new supplier C | 0.65 vs. 1.22 |
-| Strength capability (Cpk) before → after supplier C | 1.03 → 0.82 (capable → not capable) |
+| Strength capability (Cpk) before → after supplier C | 1.03 → 0.82 (marginal → not capable) |
 | Control chart signals before → after the change | strength 1.7% → 6.3%, ΔE 4.7% → 9.5% |
 | Early-warning model (time-ordered test set) | PR-AUC 0.81 vs. 0.22 for a useless model; checking 19% of batches catches 69% of the off-shade ones |
 | Recorded release decisions that disagree with the spec rules | 35 batches flagged for review |
