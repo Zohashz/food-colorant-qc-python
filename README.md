@@ -56,7 +56,7 @@ There is no public dataset of food-colorant batch QC (and real plant data is con
 | Colorimetry | **CIEDE2000** (validated against published reference values), ΔL\*/Δa\*/Δb\*, shade direction, chroma change |
 | Decision audit | recorded release decisions vs. decisions re-derived from the spec |
 | EDA & tests | ΔE by product / supplier / shift / line, Kruskal-Wallis, Mann-Whitney, chi-square |
-| SPC | I-charts with baseline limits, Nelson run rule, Cp/Cpk before vs after a supplier change, Pareto of non-conformances |
+| SPC | I-charts with baseline limits, run-rule signals, Cp/Cpk before vs after a supplier change, Pareto of non-conformances |
 | Early warning | process-only features, **chronological split**, `TimeSeriesSplit`, regression of ΔE00, classification of "out of tolerance", threshold chosen on a validation window, gain chart |
 | Interpretation | rank correlations, off-shade rate vs. temperature deviation, permutation importance |
 
